@@ -1,0 +1,38 @@
+#main{
+    display: grid;
+    grid-template-columns: 40% 40% 20% ;
+    }
+.icon{
+    background-color: rgb(250, 218, 169);
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+}
+.salon{
+    display: grid;
+    grid-template-columns: 100%;
+    padding: 5%;
+    
+}
+.salon input{
+    background-color: rgb(204, 201, 201);
+    border: none;
+    padding: 2%;
+}
+.salon textarea{
+    background-color: rgb(204, 201, 201);
+}
+button{
+    background-color: rgb(238, 196, 134);
+    color: white;
+    border: none;
+    padding: 2%;
+}
+.plane{
+    background-color: rgb(250, 218, 169);
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: #fff;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.img img{
+    height: 50vh;
+    width: 100%;
+}
+.Para{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.button{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    gap: 20px;
+}
+.Btn1{
+    padding: 15px;
+    background-color: green;
+    border-radius: 30px;
+    color: whitesmoke;
+    width: 20%;
+}
+.Btn2{
+    padding: 15px;
+    border-radius: 30px;
+    color: green;
+    width: 20%;
+}

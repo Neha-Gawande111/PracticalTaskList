@@ -1,0 +1,58 @@
+#main{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin:5%;  
+        padding: 10Px;       
+}
+img{
+            border-radius: 50%;
+            
+        }
+.upper{
+        display:flex;
+        align-items: center;
+              
+    }
+.upper .makeup{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 1%;
+    padding: 1%;
+    }
+.makeup{
+        background-color: rgb(250, 218, 169);
+    }
+.lower{
+        display: flex;
+        align-items: center;
+        
+        }
+.haircare{
+        background-color: rgb(250, 218, 169);
+}
+.lower .haircare{
+        
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 1%;
+    padding: 1%; 
+}
+.nails{
+        background-color: rgb(250, 218, 169);
+}
+.lower .nails{
+        
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 1%;
+    padding: 1%;
+}
+a{
+        color: black;
+        padding: 2%;
+} 
+ 

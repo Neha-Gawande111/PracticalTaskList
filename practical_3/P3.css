@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right,rgb(61, 24, 61),rgb(17, 2, 17));
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+/* nav{
+    align-items: center;
+    justify-content: center;
+} */
+.logo{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    color: white;
+    
+}
+.WebDeveloper{
+    
+    align-items: center;
+    justify-content: center;
+    
+    color: white;
+
+}
+.WebDeveloper a{
+    color: white;
+}
+.image{
+    margin: 10%;
+}
+button{
+    background-color: rgb(79, 144, 170);
+    color: whitesmoke;
+    border-radius: 10px;
+    width: 50%;
+}
